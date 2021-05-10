@@ -5,18 +5,18 @@
     	["module-resolver", {
 	      "root": ["./src"],
 	      "alias": {
-	      	"cache": "./cache",
-	      	"configs": "./configs",
-	      	"controllers": "./controllers",
-	      	"helpers": "./helpers",
-	      	"hooks": "./hooks",
-	      	"init": "./init",
-	      	"models": "./models",
-	      	"queues": "./queues",
-	      	"repos": "./repos",
-	      	"routes": "./routes",
-	      	"services": "./services",
-	      	"uploaders": "./uploaders",
+	      	"cache": "./src/cache",
+	      	"configs": "./src/configs",
+	      	"controllers": "./src/controllers",
+	      	"helpers": "./src/helpers",
+	      	"hooks": "./src/hooks",
+	      	"init": "./src/init",
+	      	"models": "./src/models",
+	      	"queues": "./src/queues",
+	      	"repos": "./src/repos",
+	      	"routes": "./src/routes",
+	      	"services": "./src/services",
+	      	"uploaders": "./src/uploaders",
 	      }
     	}]
 	]
