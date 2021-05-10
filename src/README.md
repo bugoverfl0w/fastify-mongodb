@@ -17,4 +17,4 @@
 - npm install
 
 # run
-node index.js
+npm start

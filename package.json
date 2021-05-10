@@ -41,6 +41,7 @@
     "fastify-plugin": "^3.0.0",
     "fastify-rate-limit": "^5.5.0",
     "mongoose": "^5.12.7",
+    "request": "^2.88.2",
     "sequelize": "^6.6.2"
   }
 }
